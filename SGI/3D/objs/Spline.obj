@@ -1,0 +1,13 @@
+mtllib Spline.mtl
+
+v 40 40 40
+v 40 50 40
+v 40 55 40
+v 30 35 40
+
+o bd
+cstype bspline
+deg 3
+curv 0.0 0.0 1 2 3 4
+end
+
